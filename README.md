@@ -7,3 +7,6 @@ npm install
 ```bash
 npm run dev
 ```
+## Live address
+
+[testcase-two.vercel.app](testcase-two.vercel.app)
