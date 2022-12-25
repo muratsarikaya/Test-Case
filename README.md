@@ -9,4 +9,4 @@ npm run dev
 ```
 ## Live address
 
-[testcase-two.vercel.app](https://testcase-two.vercel.app/)
+[testcase-two.vercel.app](https://test-case-nu.vercel.app/)
